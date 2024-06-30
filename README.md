@@ -1,6 +1,6 @@
 # Comparador de Combustíveis - App na Linguagem Kotlin
 
-Este é um aplicativo Android desenvolvido com a Linguagem Kotlin que ajuda os usuários a decidir se é melhor abastecer com álcool ou gasolina com base nos preços dos combustíveis.
+Este é um aplicativo Android desenvolvido com a Linguagem Kotlin que ajuda os usuários tomarem uma decisão :  Se é melhor abastecer com álcool ou gasolina com base nos preços dos combustíveis.
 
 Comparador de Combustíveis para a Disciplina Programação em Kotlin da Pós-Graduação Latu Sensu EAD em Dispositivos Móveis da UTFPR - Universidade Tecnológica Federal do Paraná
 
