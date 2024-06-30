@@ -34,4 +34,4 @@ Este projeto está licenciado sob a Licença MIT.
 
 ## Contato
 
-Para perguntas ou sugestões, entre em contato pelo e-mail: matus.moura333x2@gmail.com.
+Para perguntas ou sugestões, entre em contato pelo e-mail: sergiomirandaserjao@gmail.com.
