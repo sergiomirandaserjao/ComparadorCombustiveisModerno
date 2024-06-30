@@ -30,7 +30,7 @@ Segunda Turma da Pós em Dispositivos Móveis - Maio de 2024 até Novembro de 20
 
 ## Testes Instrumentados 
 
- - Arquivo ExampleInstrumentedTest
+ - Arquivo ExampleInstrumentedTest.kt
    
 ## Contribuições
 
