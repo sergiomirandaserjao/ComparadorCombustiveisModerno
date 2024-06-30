@@ -28,9 +28,13 @@ Segunda Turma da Pós em Dispositivos Móveis - Maio de 2024 até Novembro de 20
 - `app/src/main/java/com/exe/matusmoura/alcoolougasolina`: Contém o código-fonte do aplicativo.
 - `app/src/main/res/activity_main`: Contém os arquivos de layout das atividades.
 
+## Testes Instrumentados 
+
+ - Arquivo ExampleInstrumentedTest
+   
 ## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para adicionar novos recursos, melhorar a interface ou otimizar o código.
+Contribuições são bem-vindas ao Projeto para melhorias ! Sinta-se à vontade para adicionar novos recursos ao App, melhorar a interface e fazer a otimização o código.
 
 ## Licença
 
