@@ -2,6 +2,10 @@
 
 Este é um aplicativo Android desenvolvido com a Linguagem Kotlin que ajuda os usuários a decidir se é melhor abastecer com álcool ou gasolina com base nos preços dos combustíveis.
 
+Comparador de Combustíveis para a Disciplina Programação em Kotlin da Pós-Graduação Latu Sensu EAD em Dispositivos Móveis da UTFPR - Universidade Tecnológica Federal do Paraná
+
+Segunda Turma da Pós em Dispositivos Móveis - Maio de 2024 até Novembro de 2025
+
 ## Funcionalidades
 
 - Insira o preço do álcool e da gasolina.
